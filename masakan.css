@@ -1,0 +1,18 @@
+*{
+    text-decoration: none;
+    
+}
+a.tbl-biru{
+    background: #0e0d0d;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-weight: bold;
+}
+a.tbl-biru:hover{
+    background: #636061;
+    text-decoration: none;
+    margin-bottom: 100px;
+}
